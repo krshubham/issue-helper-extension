@@ -2,7 +2,7 @@
 
 This Chrome extension uses a Large Language Model (LLM) to summarize GitHub issues and suggest possible fixes based on the content of the issue.
 
-> **Note:** This extension has been submitted to the Chrome Web Store for publishing. We are currently awaiting approval.
+> Download the extension at [here](https://chromewebstore.google.com/detail/github-issue-helper/ofckeainckjmmfocpjilclcdfcoajfno)
 
 ## Features
 
